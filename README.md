@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @vrukshika
-- 👀 I’m interested in web development.I know html,css,flask,java,c,python,sql.
-- 🌱 I’m currently learning javascript.
+- 👀 I’m interested in web development and problem solving.
+- 🌱 I’m currently learning React JS.
+- leetcode enthusiast
 - Aspiring web developer with a strong foundation in HTML, CSS,JavaScript,React JS, Java, C, and Python.
 - Eager to apply problem-solving skills and web development expertise to contribute to a dynamic and innovative team.
 
 -Skills
-Web Development: HTML, CSS
+Web Development: HTML, CSS,JS
 Programming Languages: Java, C, Python
 Problem Solving: Analytical thinking, debugging, and optimizing code
 
